@@ -1,5 +1,7 @@
 # Wheelchair Stability App
 
+Demo: https://cdn.rawgit.com/ACECentre/Wheelchair-Stability-App/master/index.html 
+
 TODO: Write a project description
 
 ## Installation
